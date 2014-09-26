@@ -59,6 +59,9 @@ ipch/
 *.vsp
 *.vspx
 
+# Packages dependances
+packages
+
 # Guidance Automation Toolkit
 *.gpState
 

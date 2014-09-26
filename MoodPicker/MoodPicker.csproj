@@ -225,7 +225,7 @@
     <None Include="Resources\GoodHover.png" />
     <None Include="Resources\BadDisabled.png" />
     <None Include="Resources\GoodDisabled.png" />
-    <None Include="Resources\moodpicker-152.png" />
+    <None Include="Resources\MoodPicker.png" />
     <Content Include="Resources\MoodPicker.ico" />
   </ItemGroup>
   <ItemGroup>

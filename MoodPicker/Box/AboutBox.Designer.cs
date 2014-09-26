@@ -33,8 +33,8 @@
             this.versionLabel = new System.Windows.Forms.Label();
             this.githubLink = new System.Windows.Forms.LinkLabel();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
-            this.blankLabel1 = new System.Windows.Forms.Label();
             this.descriptionLabel = new System.Windows.Forms.Label();
+            this.blankLabel1 = new System.Windows.Forms.Label();
             this.copyrightLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.logoPictureBox)).BeginInit();
             this.flowLayoutPanel1.SuspendLayout();
@@ -101,14 +101,6 @@
             this.flowLayoutPanel1.Size = new System.Drawing.Size(160, 110);
             this.flowLayoutPanel1.TabIndex = 16;
             // 
-            // blankLabel1
-            // 
-            this.blankLabel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.blankLabel1.Location = new System.Drawing.Point(3, 45);
-            this.blankLabel1.Name = "blankLabel1";
-            this.blankLabel1.Size = new System.Drawing.Size(174, 20);
-            this.blankLabel1.TabIndex = 15;
-            // 
             // descriptionLabel
             // 
             this.descriptionLabel.AutoSize = true;
@@ -118,6 +110,14 @@
             this.descriptionLabel.Size = new System.Drawing.Size(62, 13);
             this.descriptionLabel.TabIndex = 16;
             this.descriptionLabel.Text = "Description";
+            // 
+            // blankLabel1
+            // 
+            this.blankLabel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.blankLabel1.Location = new System.Drawing.Point(3, 45);
+            this.blankLabel1.Name = "blankLabel1";
+            this.blankLabel1.Size = new System.Drawing.Size(174, 20);
+            this.blankLabel1.TabIndex = 15;
             // 
             // copyrightLabel
             // 

@@ -36,7 +36,8 @@ namespace MoodPicker
             else
             {
                 MessageBox.Show(
-                    "Holy crap, the application is already running.",
+                    "Holy crap, the application is already running." + Environment.NewLine + 
+                    "Did you check in the notification tray?",
                     "Mood Picker",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Warning

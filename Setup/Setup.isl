@@ -345,7 +345,7 @@
 		<col def="S0">ISDotNetInstallerArgsUninstall</col>
 		<col def="S0">ISDotNetInstallerArgsRollback</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td>{43D39B46-2CC4-44FC-AD55-3A88EC48AFF0}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
-		<row><td>MoodPicker.Primary_output</td><td>{38642000-6D07-4449-B8A0-36D72D4350E1}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodpicker.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
+		<row><td>MoodPicker.Primary_output</td><td>{1AE06885-C94F-4084-BFE5-3DBD738A76BB}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodpicker.primary_output</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>MoodPicker.exe</td><td>{97719D41-1B11-4A6B-9718-CE694B812527}</td><td>INSTALLDIR</td><td>2</td><td/><td>moodpicker.exe</td><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 		<row><td>NewComponent1</td><td>{CB1D1536-7A68-41B3-B8CB-AF78FD45B13F}</td><td>INSTALLDIR</td><td>2</td><td/><td/><td>17</td><td/><td/><td/><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td><td>/LogFile=</td></row>
 	</table>
@@ -2038,7 +2038,7 @@
 		<col def="S0">HTTPLocation</col>
 		<col def="S0">Miscellaneous</col>
 		<row><td>ISX_DEFAULTCOMPONENT</td><td/><td/><td>_3D043F25_9480_4F6C_9300_149E84D7AE3D_FILTER</td><td/><td/><td/><td/></row>
-		<row><td>MoodPicker.Primary_output</td><td/><td/><td>_85D6CFEE_D0B0_4B90_8C90_6B9753CEA2E1_FILTER</td><td/><td/><td/><td/></row>
+		<row><td>MoodPicker.Primary_output</td><td/><td/><td>_F47A9A66_5739_4D0A_AB8A_73441C82B0FC_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>MoodPicker.exe</td><td/><td/><td>_B8CFABA6_5124_4A0A_A2DC_2D1B52E1BA59_FILTER</td><td/><td/><td/><td/></row>
 		<row><td>NewComponent1</td><td/><td/><td>_701806BC_2CFE_45DB_B083_B3463C0600FE_FILTER</td><td/><td/><td/><td/></row>
 	</table>
@@ -2661,7 +2661,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>Devenet</td><td>0</td><td/><td>-593325822</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>Devenet</td><td>0</td><td/><td>-593330845</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>-727568255</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>-727568255</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_DOTNETVERSION45FULL</td><td>1033</td><td>Microsoft .NET Framework 4.5 Full package or greater needs to be installed for this installation to continue.</td><td>0</td><td/><td>-727540950</td></row>
@@ -3764,15 +3764,15 @@
 		<row><td>IDS__TargetReq_DESC_PROCESSOR</td><td>1033</td><td>The processor is not adequate for running [ProductName].</td><td>0</td><td/><td>-727568255</td></row>
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>-727568255</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>-727568255</td></row>
-		<row><td>ID_STRING1</td><td>1033</td><td>http://www.Devenet.com</td><td>0</td><td/><td>-593325822</td></row>
+		<row><td>ID_STRING1</td><td>1033</td><td>http://windows.devenet.info/moodpicker</td><td>0</td><td/><td>-593304157</td></row>
 		<row><td>ID_STRING10</td><td>1033</td><td>Mood Picker</td><td>0</td><td/><td>-727558668</td></row>
 		<row><td>ID_STRING11</td><td>1033</td><td>Mood Picker Client for Windows</td><td>0</td><td/><td>-727562732</td></row>
 		<row><td>ID_STRING12</td><td>1033</td><td>Mood Picker Client for Windows</td><td>0</td><td/><td>-727534060</td></row>
 		<row><td>ID_STRING13</td><td>1033</td><td>Mood Picker Client for Windows</td><td>0</td><td/><td>-727529964</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>Devenet</td><td>0</td><td/><td>-593325822</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>Devenet</td><td>0</td><td/><td>-593330845</td></row>
 		<row><td>ID_STRING3</td><td>1033</td><td>Mood Picker</td><td>0</td><td/><td>-727557951</td></row>
 		<row><td>ID_STRING4</td><td>1033</td><td>Nicolas Devenet</td><td>0</td><td/><td>-727544395</td></row>
-		<row><td>ID_STRING5</td><td>1033</td><td>http://www.Devenet.com</td><td>0</td><td/><td>-593325822</td></row>
+		<row><td>ID_STRING5</td><td>1033</td><td>http://windows.devenet.info/moodpicker</td><td>0</td><td/><td>-593357373</td></row>
 		<row><td>ID_STRING6</td><td>1033</td><td>Mood Picker</td><td>0</td><td/><td>-727566294</td></row>
 		<row><td>ID_STRING7</td><td>1033</td><td>See http://moodpicker.windows.devenet.info</td><td>0</td><td/><td>-727558070</td></row>
 		<row><td>ID_STRING8</td><td>1033</td><td>Mood Picker</td><td>0</td><td/><td>-727580310</td></row>

@@ -18,6 +18,8 @@
 
 ## Icon tray
 ![Icon tray](https://github.com/nicolabricot/MoodPicker-Windows/raw/resources/screenshots/icon-tray.png)
+### Notification to share mood
+![Icon tray](https://github.com/nicolabricot/MoodPicker-Windows/raw/resources/screenshots/ballon-share.png)
 
 ## Installation
 ### Requirement error
